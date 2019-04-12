@@ -7,6 +7,13 @@ A Repo containing Sample ML code for generating Predictive Models using Sklearn 
 * Lasso Regression
 * Random Forest Regression
 * Gradient Boosted Model
+
+# Classification Techniques
+* Regularized Logistic Regression 
+* Random Forest Model
+* Bagged Tree Model
+* Adaboost Model
+
  
 ## Cross Validation Methods
 * GridsearchCV
